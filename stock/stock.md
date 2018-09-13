@@ -20,6 +20,8 @@
 <https://qiita.com/higuma/items/3344387e0f2cce7f2cfe>
 <https://qiita.com/kouichi-c-nakamura/items/5b04fb1a127aac8ba3b0>
 ## **開発基礎**
+* [.bashrcと.bashprofileの使い分け](https://qiita.com/magicant/items/d3bb7ea1192e63fba850)
+
 ### Git×GitHub
 * [Git初心者の用語説明](https://qiita.com/nnahito/items/e546b27f73e7be131d4e)  
 
@@ -44,6 +46,15 @@
   - githubからrailsのプロジェクトを落としてきて動かす
   * プロジェクトを複数作り、違うバージョンのrubyで使う
     →localでバージョン変更を行う
+    ・rbenvの公式ホームページを見に行った
+    ・バージョンをglobalで変更しようとしたが、
+    できなかったため、localで変更
+    ・rbenv versions は2.5.1だが、画面は2.3.7
+    　→画面は固定なのでは？
 
+    学んだこと
+    ・installをする時はまず公式を見に行こう
+    ・つまずいても、最終ゴールに到達できる道があるなら、その道にを突き進んでみることも大切
+    ・rubyのバージョンはrbenvで、GemはBundleで管理する
 
 ## **フロントエンド=Vue.js**
