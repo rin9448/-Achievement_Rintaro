@@ -14,7 +14,7 @@
 <https://qiita.com/ruwatana/items/8d9c174250061721ad11>
 <https://qiita.com/bird_tummy/items/bd063f0d7eb18287fec1>
 * 抜けるためには　Ctrl+c  
-
+* [ツリー構造を出力するコマンド](https://www.yoheim.net/blog.php?q=20160802)
 ### マークダウン
 <https://qiita.com/oreo/items/82183bfbaac69971917f>
 <https://qiita.com/higuma/items/3344387e0f2cce7f2cfe>
@@ -29,6 +29,14 @@
 
 ### Docker
 * [Dockerとは](https://www.slideshare.net/zembutsu/docker-images-containers-and-lifecycle)
+
+>Docker仮想化環境構築入門を読んで
+> DockerCompseとは何か
+> * マルチコンテナのDockerアプリケーションを定義して実行するために使用するツール
+> * 用途としては、開発環境の構築、自動テストの実行環境の立ち上げなど、アプリケーションのコンテナの他に、DBなどのコンテナが必要な場合に使用されることが多い
+> * Webサーバ、DBサーバなどの各コンテナの定義をYAML形式のファイルに記述しておき、その適宜ファイルを使って、まとめてコンテナの管理を行う
+> * 実際のDockerfile,docker-compose.ymlの記載方法もまとめていきたい
+
 
 ## **モデリング**
 
