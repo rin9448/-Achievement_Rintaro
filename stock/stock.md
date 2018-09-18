@@ -8,6 +8,7 @@
 ### アプリ
 * HyperSwitch_ウィンドウ単位で画面切り替えができる。
 * <https://pc-karuma.net/mac-recommended-app/>
+* [Atomショートカットキーチートシート](https://qiita.com/yamagh/items/0fb4e7bbbd3c9ef4d855)  
 
 ### ターミナル
 <https://news.mynavi.jp/article/zsh-24/>
@@ -21,10 +22,10 @@
 <https://qiita.com/kouichi-c-nakamura/items/5b04fb1a127aac8ba3b0>
 ## **開発基礎**
 * [.bashrcと.bashprofileの使い分け](https://qiita.com/magicant/items/d3bb7ea1192e63fba850)
-
+* [Railsのアプリケーションサーバ、Webサーバを知るにはいい記事かも](https://qiita.com/jnchito/items/3884f9a2ccc057f8f3a3)
 ### Git×GitHub
 * [Git初心者の用語説明](https://qiita.com/nnahito/items/e546b27f73e7be131d4e)  
-
+* [Gitのコマンドチートシート](https://qiita.com/konweb/items/621722f67fdd8f86a017)
 * [git-flowとGitHub-flowの違い](https://qiita.com/nnahito/items/565f8755e70c51532459)
 
 ### Docker
@@ -37,7 +38,8 @@
 > * Webサーバ、DBサーバなどの各コンテナの定義をYAML形式のファイルに記述しておき、その適宜ファイルを使って、まとめてコンテナの管理を行う
 > * 実際のDockerfile,docker-compose.ymlの記載方法もまとめていきたい
 
-
+* [docker-composeのコマンドチートシート](https://qiita.com/wasanx25/items/d47caf37b79e855af95f)
+* [docker再起動時にA server is already running.となり、Exitされてしまう時の対対処法](http://hsuzuki.hatenablog.com/entry/2017/06/08/151658)
 ## **モデリング**
 
 ### テスト駆動開発
@@ -64,5 +66,6 @@
     ・installをする時はまず公式を見に行こう
     ・つまずいても、最終ゴールに到達できる道があるなら、その道にを突き進んでみることも大切
     ・rubyのバージョンはrbenvで、GemはBundleで管理する
+  * bundle exec rails s -p 3000 -b '0.0.0.0'を実行すると、画面が表示される
 
 ## **フロントエンド=Vue.js**
