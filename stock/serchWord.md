@@ -26,5 +26,8 @@
 ■Ruby
 　●[rbenv](https://qiita.com/yunzeroin/items/33a51c805e60ed5eca0e)
 　●Gem
+　●Guard  
+　●Rspec
+　　テスト駆動開発で使われてきたTest::Unitを代替するフレームワーク
 【分かっていないもの】
 ・Docker
