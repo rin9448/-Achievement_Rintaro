@@ -22,8 +22,9 @@
 　●compose
 　●yamlファイル
 　●Gemfile
+　●heroku
 ■Ruby
 　●[rbenv](https://qiita.com/yunzeroin/items/33a51c805e60ed5eca0e)
-　●
+　●Gem
 【分かっていないもの】
-・Git、Github、ソースツリーの連動
+・Docker
