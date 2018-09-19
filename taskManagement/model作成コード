@@ -1,0 +1,4 @@
+rails g model User name:string email:string password:string
+rails g model Task name:string start_time:datetime end_time:datetime
+rails g model Project name:string
+rails g model Lane name:string

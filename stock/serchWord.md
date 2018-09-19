@@ -23,6 +23,13 @@
 　●yamlファイル
 　●Gemfile
 　●heroku
+■モデリング
+　●One Fact in One Place
+　●コンパウンドキー
+　●集約
+　●多重度
+　●リソース
+　●イベント
 ■Ruby
 　●[rbenv](https://qiita.com/yunzeroin/items/33a51c805e60ed5eca0e)
 　●Gem

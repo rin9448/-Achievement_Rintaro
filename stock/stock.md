@@ -41,7 +41,7 @@
 * [docker-composeのコマンドチートシート](https://qiita.com/wasanx25/items/d47caf37b79e855af95f)
 * [docker再起動時にA server is already running.となり、Exitされてしまう時の対対処法](http://hsuzuki.hatenablog.com/entry/2017/06/08/151658)
 ## **モデリング**
-
+* [astahの使い方動画](http://astah.change-vision.com/ja/product/videos.html#astah)
 ### テスト駆動開発
 * [テスト駆動開発を読んで](https://dev.classmethod.jp/study_meeting/read/what-tdd/)  
 
@@ -51,6 +51,7 @@
 * ローカル環境でrailsを動かすことはできたが、【rbenv global 2.5.1】でバージョン変更ができないため、  
  2.3.7を使用中
 * バージョン変更の方法は、全体共通のglobalとプロジェクト毎に設定ができるlocalがある。localで設定されたものが優先される  
+* [モデル作成に必要なコマンド類](https://qiita.com/zaru/items/cde2c46b6126867a1a64)
 
 * **前島からの提案**
   - githubからrailsのプロジェクトを落としてきて動かす
