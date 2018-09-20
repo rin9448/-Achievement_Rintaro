@@ -30,11 +30,16 @@
 　●多重度
 　●リソース
 　●イベント
+　●[正規化](https://qiita.com/To_BB/items/694c7428bf3bfa0a1930)
 ■Ruby
 　●[rbenv](https://qiita.com/yunzeroin/items/33a51c805e60ed5eca0e)
 　●Gem
 　●Guard  
 　●Rspec
 　　テスト駆動開発で使われてきたTest::Unitを代替するフレームワーク
+　●[FactoryBot_結局はRspec？](https://qiita.com/ryouzi/items/de7336e6175530723b30)
+　●アソシエーション
+　●[多対多のアソシエーション](https://qiita.com/Kohei_Kishimoto0214/items/cb9a3d3da57708fb52c9)
+　
 【分かっていないもの】
 ・Docker
