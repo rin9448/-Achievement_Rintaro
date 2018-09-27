@@ -37,6 +37,7 @@
 　●Guard  
 　●Rspec
 　　テスト駆動開発で使われてきたTest::Unitを代替するフレームワーク
+　●Guand
 　●[FactoryBot_結局はRspec？](https://qiita.com/ryouzi/items/de7336e6175530723b30)
 　●アソシエーション
 　●[多対多のアソシエーション](https://qiita.com/Kohei_Kishimoto0214/items/cb9a3d3da57708fb52c9)

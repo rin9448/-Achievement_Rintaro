@@ -1,7 +1,7 @@
 #ディレクトリ作成コード
 --------------------
-mkdir taskControl
-cd taskControl
+mkdir taskPracticeVue
+cd taskPracticeVue
 touch Gemfile.lock
 touch Gemfile
 touch docker-compose.yml
