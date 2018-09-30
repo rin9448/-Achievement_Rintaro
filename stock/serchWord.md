@@ -41,6 +41,14 @@
 　●[FactoryBot_結局はRspec？](https://qiita.com/ryouzi/items/de7336e6175530723b30)
 　●アソシエーション
 　●[多対多のアソシエーション](https://qiita.com/Kohei_Kishimoto0214/items/cb9a3d3da57708fb52c9)
-　
+■Vue.js
+　●CDN
+　●テンプレート構文
+　●算出プロパティ
+　●v-once ディレクティブ
+　●v-on
+　●コンポーネント
+　●
+　●
 【分かっていないもの】
 ・Docker

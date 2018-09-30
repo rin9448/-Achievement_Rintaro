@@ -30,10 +30,22 @@ Vue.component('task-card', {
               </div>
             </footer>
             <footer class="card-footer">
-              <a class="card-footer-item">◀︎</a>
-              <a class="card-footer-item">▶︎</a>
+              <a class="card-footer-item" v-on:click="decrementStatus(task)">◀︎</a>
+              <a class="card-footer-item" v-on:click="incrementStatus(task)">▶︎</a>
             </footer>
-          </div>`
+          </div>`,
+  methods: {
+      incrementStatus: function (task) {
+        if(1 <= task.status && task.status <= 2) {
+  	task.status++
+        }
+      },
+      decrementStatus: function (task) {
+        if(2 <= task.status && task.status <= 3) {
+  	task.status--
+        }
+      }
+    }
 })
 new Vue({
 	el: '#board',
@@ -43,7 +55,10 @@ new Vue({
       { name: 'task 2', status: 1, assignee: '🐶', mandays: 2 },
       { name: 'task 3', status: 2, assignee: '🐱', mandays: 1 },
       { name: 'task 4', status: 3, assignee: '🐹', mandays: 1 }
-    ]
+    ],
+    newTaskName: '',
+    newTaskAssignee: null,
+    newTaskMandays: 0
   },
   computed: {
     tasksOpen: function () {
@@ -54,6 +69,11 @@ new Vue({
     },
     tasksClosed: function () {
       return filters.closed(this.tasks)
+    }
+  },
+  methods: {
+    addTask(){
+      this.tasks.push({ name: this.newTaskName, status: 1, assignee: this.newTaskAssignee, mandays: this.newTaskMandays })
     }
   }
 })
