@@ -1,25 +1,25 @@
 # **Stock**
 ## **Mac設定**
 ### 基本設定
-<https://boxil.jp/mag/a2245/?page=2>
-<https://matome.naver.jp/odai/2138629469334511401>
-<https://takakojima.com/mac%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%A8%AD%E5%AE%9A/>
+* [Mac設定1](https://boxil.jp/mag/a2245/?page=2)
+*[Mac設定2](https://matome.naver.jp/odai/2138629469334511401)
+* [Mac設定3](https://takakojima.com/mac%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%A8%AD%E5%AE%9A/)
 
 ### アプリ
-* HyperSwitch_ウィンドウ単位で画面切り替えができる。
-* <https://pc-karuma.net/mac-recommended-app/>
+* [Macおすすめアプリ](https://pc-karuma.net/mac-recommended-app/)
 * [Atomショートカットキーチートシート](https://qiita.com/yamagh/items/0fb4e7bbbd3c9ef4d855)  
 
 ### ターミナル
-<https://news.mynavi.jp/article/zsh-24/>
-<https://qiita.com/ruwatana/items/8d9c174250061721ad11>
-<https://qiita.com/bird_tummy/items/bd063f0d7eb18287fec1>
+* [iterm2の導入から、zshの導入、Rictyの導入。Preztoを導入するかは各自決めて良い](https://www.te-nu.com/entry/2018/08/30/214757)
+* [zshの設定](https://news.mynavi.jp/article/zsh-24/)
+* [iterm2の設定](https://qiita.com/ruwatana/items/8d9c174250061721ad11)
+
 * 抜けるためには　Ctrl+c  
 * [ツリー構造を出力するコマンド](https://www.yoheim.net/blog.php?q=20160802)
 ### マークダウン
-<https://qiita.com/oreo/items/82183bfbaac69971917f>
-<https://qiita.com/higuma/items/3344387e0f2cce7f2cfe>
-<https://qiita.com/kouichi-c-nakamura/items/5b04fb1a127aac8ba3b0>
+* [Markdown記法一覧](https://qiita.com/oreo/items/82183bfbaac69971917f)
+* [Markcown細かいところが知りたい場合](https://qiita.com/higuma/items/3344387e0f2cce7f2cfe)
+* [Atomに入れるMarkdownのパッケージ](https://qiita.com/kouichi-c-nakamura/items/5b04fb1a127aac8ba3b0)
 ## **開発基礎**
 * [.bashrcと.bashprofileの使い分け](https://qiita.com/magicant/items/d3bb7ea1192e63fba850)
 * [Railsのアプリケーションサーバ、Webサーバを知るにはいい記事かも](https://qiita.com/jnchito/items/3884f9a2ccc057f8f3a3)
