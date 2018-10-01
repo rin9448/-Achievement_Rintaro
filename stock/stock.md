@@ -2,7 +2,7 @@
 ## **Mac設定**
 ### 基本設定
 * [Mac設定1](https://boxil.jp/mag/a2245/?page=2)
-*[Mac設定2](https://matome.naver.jp/odai/2138629469334511401)
+* [Mac設定2](https://matome.naver.jp/odai/2138629469334511401)
 * [Mac設定3](https://takakojima.com/mac%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%A8%AD%E5%AE%9A/)
 
 ### アプリ
