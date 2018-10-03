@@ -5,8 +5,8 @@
 * [Mac設定2](https://matome.naver.jp/odai/2138629469334511401)
 * [Mac設定3](https://takakojima.com/mac%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%A8%AD%E5%AE%9A/)
 
-### アプリ
-* [Macおすすめアプリ](https://pc-karuma.net/mac-recommended-app/)
+### アプリß
+* [Macおすすめアプリ](https://pc-karuma.net/mac-recommended-app/)  
 * [Atomショートカットキーチートシート](https://qiita.com/yamagh/items/0fb4e7bbbd3c9ef4d855)  
 
 ### ターミナル
