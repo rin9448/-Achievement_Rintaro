@@ -8,7 +8,8 @@
 export default {
   data: function () {
     return {
-      message: "Hello Rintaro!"
+      message: "Hello Rintaro!!!!!!"
+      messate: "I like baseball!"
     }
   }
 }
